@@ -1,0 +1,16 @@
+{
+  "name": "craco-vtk",
+  "version": "1.0.0",
+  "description": "Let's use VTK with create-react-app today!",
+  "main": "index.js",
+  "repository": "https://github.com/InsightSoftwareConsortium/craco-vtk.git",
+  "author": "Matt McCormick <matt.mccormick@kitware.com>",
+  "license": "Apache-2.0",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "@craco/craco": "*",
+    "vtk.js": "*"
+  }
+}
