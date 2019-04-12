@@ -9,8 +9,7 @@ This is a plugin for [@craco/craco](https://github.com/sharegate/craco).
 ### 1. Create a React project
 
 ```sh
-npm install -g create-react-app # or yarn global add create-react-app
-create-react-app example
+npx create-react-app example
 cd example
 ```
 
@@ -19,9 +18,9 @@ cd example
 In your create-react-app project, install modules:
 
 ```sh
-npm install --save @craco/craco craco-vtk vtk.js
+npm install --save @craco/craco craco-vtk vtk.js shader-loader worker-loader css-loader style-loader postcss-loader
 # or
-yarn add @craco/craco craco-vtk vtk.js
+yarn add @craco/craco craco-vtk vtk.js shader-loader worker-loader css-loader style-loader postcss-loader
 ```
 
 ### 3. Rewrite npm scripts
