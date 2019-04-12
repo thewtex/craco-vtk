@@ -63,3 +63,5 @@ Setup is complete! Enjoy your VTK life.🏝
 ## Acknowledgements
 
 This package was inspired by [craco-cesium](https://github.com/darwin-education/craco-cesium).
+
+See also [craco-itk](https://www.npmjs.com/package/craco-itk).
