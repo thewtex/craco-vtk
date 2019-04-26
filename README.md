@@ -1,4 +1,4 @@
-# craco-itk
+# craco-vtk
 
 Let's use [vtk.js](https://kitware.github.io/vtk-js/index.html) with [create-react-app](https://github.com/facebook/create-react-app) today!
 
