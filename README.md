@@ -4,6 +4,8 @@ Let's use [vtk.js](https://kitware.github.io/vtk-js/index.html) with [create-rea
 
 This is a plugin for [@craco/craco](https://github.com/sharegate/craco).
 
+![3D React Logo](https://i.imgur.com/dDzeyoB.gif)
+
 ## Usage
 
 ### 1. Create a React project
