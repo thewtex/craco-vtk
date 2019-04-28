@@ -1,10 +1,12 @@
 {
   "name": "test-app",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://thewtex.github.io/craco-vtk",
+  "private": false,
   "dependencies": {
     "@craco/craco": "^4.1.0",
     "css-loader": "^2.1.1",
+    "gh-pages": "^2.0.1",
     "postcss-loader": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -18,6 +20,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
